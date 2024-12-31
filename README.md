@@ -2,18 +2,6 @@
 
 Welcome to the MongoDB tutorial! This guide covers everything from the basics to advanced features. Perfect for beginners and those looking to deepen their MongoDB expertise.
 
-## Table of Contents
-1. [Introduction](#introduction)
-2. [Installation](#installation)
-3. [Basic CRUD Operations](#basic-crud-operations)
-4. [Data Modeling](#data-modeling)
-5. [Indexes](#indexes)
-6. [Aggregation Framework](#aggregation-framework)
-7. [Replication](#replication)
-8. [Sharding](#sharding)
-9. [Advanced Features](#advanced-features)
-10. [Best Practices](#best-practices)
-
 ---
 
 ## 1. Introduction
